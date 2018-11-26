@@ -1,0 +1,10 @@
+0	RevolvingUtilizationOfUnsecuredLines	q
+1	age	q
+2	NumberOfTime30-59DaysPastDueNotWorse	q
+3	DebtRatio	q
+4	MonthlyIncome	q
+5	NumberOfOpenCreditLinesAndLoans	q
+6	NumberOfTimes90DaysLate	q
+7	NumberRealEstateLoansOrLines	q
+8	NumberOfTime60-89DaysPastDueNotWorse	q
+9	NumberOfDependents	q
